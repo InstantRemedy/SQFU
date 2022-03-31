@@ -1,0 +1,70 @@
+<NotActive>
+    <Status>
+       "true" 
+    <Status/>
+	<Msg>
+        <NPC>
+            "Hello, my name  Kail, I’m very hungry. I must eat much food. Can you bring me please."
+            "OK, and i must eat it nyam nyam nyam!!!!"
+        <NPC/>
+		<PLAYER>
+            "OH YEATH!"
+        <PLAYER/>
+        <NPC>
+            "THANK!!!"
+        <NPC/>
+        <PLAYER>
+            "GGGGG"
+        <PLAYER/>
+	<Msg/>
+	<Things>
+
+    <Things/>
+
+<NotActive/>
+
+<Active>
+    <Status>
+       "false" 
+    <Status/>
+	<Msg>
+		<NPC>
+            "Ok "
+        <NPC/>
+        <PLAYER>
+
+        <PLAYER/>
+	<Msg/>
+    <Things>
+        "redapple:5" "fish:3" "potato:6" 
+    <Things/>
+<Active/>
+
+<Completed>
+    <Status>
+       "false" 
+    <Status/>
+	<Msg>
+        <NPC>
+		    "Thank you!!"
+        <NPC/>
+        <PLAYER>
+
+        <PLAYER/>
+	<Msg/>
+    <Things>
+    <Things/>
+<Completed/>
+
+<AfterCompleted>
+    <Status>
+       "false" 
+    <Status/>
+	<Msg>
+        <NPC>
+		    "Today good weather, is not it?"
+        <NPC/>
+        <PLAYER>
+        <PLAYER/>
+    <Msg/>
+<AfterCompleted/>

@@ -1,0 +1,51 @@
+<NotActive>
+    <Status>
+       "true" 
+    <Status/>
+	<Msg>
+        <NPC>
+        <NPC/>
+		<PLAYER>
+        <PLAYER/>
+	<Msg/>
+	<Things>
+    <Things/>
+<NotActive/>
+
+<Active>
+    <Status>
+       "false" 
+    <Status/>
+	<Msg>
+		<NPC>
+        <NPC/>
+        <PLAYER>
+        <PLAYER/>
+	<Msg/>
+    <Things>
+    <Things/>
+<Active/>
+
+<Completed>
+    <Status>
+    <Status/>
+	<Msg>
+        <NPC>
+        <NPC/>
+        <PLAYER>
+        <PLAYER/>
+	<Msg/>
+    <Things>
+    <Things/>
+<Completed/>
+
+<AfterCompleted>
+    <Status> 
+    <Status/>
+	<Msg>
+        <NPC>
+        <NPC/>
+        <PLAYER>
+        <PLAYER/>
+    <Msg/>
+<AfterCompleted/>

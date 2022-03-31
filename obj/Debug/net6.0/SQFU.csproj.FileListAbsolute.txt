@@ -1,0 +1,15 @@
+C:\Users\igorf\Desktop\CODE\cs\SQFU\bin\Debug\net6.0\SQFU.exe
+C:\Users\igorf\Desktop\CODE\cs\SQFU\bin\Debug\net6.0\SQFU.deps.json
+C:\Users\igorf\Desktop\CODE\cs\SQFU\bin\Debug\net6.0\SQFU.runtimeconfig.json
+C:\Users\igorf\Desktop\CODE\cs\SQFU\bin\Debug\net6.0\SQFU.dll
+C:\Users\igorf\Desktop\CODE\cs\SQFU\bin\Debug\net6.0\ref\SQFU.dll
+C:\Users\igorf\Desktop\CODE\cs\SQFU\bin\Debug\net6.0\SQFU.pdb
+C:\Users\igorf\Desktop\CODE\cs\SQFU\obj\Debug\net6.0\SQFU.csproj.AssemblyReference.cache
+C:\Users\igorf\Desktop\CODE\cs\SQFU\obj\Debug\net6.0\SQFU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\Desktop\CODE\cs\SQFU\obj\Debug\net6.0\SQFU.AssemblyInfoInputs.cache
+C:\Users\igorf\Desktop\CODE\cs\SQFU\obj\Debug\net6.0\SQFU.AssemblyInfo.cs
+C:\Users\igorf\Desktop\CODE\cs\SQFU\obj\Debug\net6.0\SQFU.csproj.CoreCompileInputs.cache
+C:\Users\igorf\Desktop\CODE\cs\SQFU\obj\Debug\net6.0\SQFU.dll
+C:\Users\igorf\Desktop\CODE\cs\SQFU\obj\Debug\net6.0\ref\SQFU.dll
+C:\Users\igorf\Desktop\CODE\cs\SQFU\obj\Debug\net6.0\SQFU.pdb
+C:\Users\igorf\Desktop\CODE\cs\SQFU\obj\Debug\net6.0\SQFU.genruntimeconfig.cache
