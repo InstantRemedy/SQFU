@@ -1,4 +1,7 @@
 using MySystem;
+using System;
+using System.IO;
+using System.Collections.Generic;
 
 namespace SQFUSystem
 {
@@ -57,7 +60,7 @@ namespace SQFUSystem
                     checkState = SQFU.CompletedComm;
                     break;
                 case StateQuest.AfterCompleted:
-                    checkState = SQFU.ActiveComm;
+                    checkState = SQFU.AfterCompletedComm;
                     break;
             }
             return _GetStringBetween(_sqfuF, checkState);
@@ -194,7 +197,9 @@ namespace SQFUSystem
             
             foreach(var p in QuickSort(lstAllMsg, 0, lstAllMsg.Count - 1))
             {
-                string msg = allMsg.Substring(p.First.First, p.First.Second - p.First.First + 10);
+                int whoTalkLength = p.Second == WhoTalk.Player ? SQFU.PlayerTalk.Second.Length : SQFU.NPCTalk.Second.Length;
+
+                string msg = allMsg.Substring(p.First.First, p.First.Second - p.First.First + whoTalkLength);
                 if(p.Second == WhoTalk.Player)
                 {
                     msg = _GetStringBetween(msg, SQFU.PlayerTalk);

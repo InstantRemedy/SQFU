@@ -1,8 +1,10 @@
 using MySystem;
+using System;
+using System.Collections.Generic;
 
 namespace SQFUSystem
 {
-    class SQFUInOut //Main class that work wit SQFUWrite and SQFUReader
+    public class SQFUInOut //Main class that work wit SQFUWrite and SQFUReader
     {
         private SQFUReader _reader;
         private SQFUWriter _writer;
