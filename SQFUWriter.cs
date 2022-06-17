@@ -3,7 +3,7 @@ using System.IO;
 
 namespace SQFUSystem
 {
-    class SQFUWriter //NOT USE for gaming, can use for debugging, or check
+    public class SQFUWriter //NOT USE for gaming, can use for debugging, or check
     {
         private string _sqfuF;
         private SQFUReader _sQFUReader;

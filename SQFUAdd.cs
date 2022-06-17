@@ -23,7 +23,7 @@ namespace SQFUSystem
         NPC
     }
 
-    class SQFU 
+    public class SQFU 
     {
         public static Pair<string, string> NoActiveComm = new Pair<string, string>("<NotActive>", "<NotActive/>");
         public static Pair<string, string> ActiveComm = new Pair<string, string>("<Active>", "<Active/>");

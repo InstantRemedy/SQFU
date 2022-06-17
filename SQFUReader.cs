@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace SQFUSystem
 {
-    class SQFUReader //NOT USE for gaming, can use for debugging, or check
+    public class SQFUReader //NOT USE for gaming, can use for debugging, or check
     {   
         private string _sqfuF;
         private string _path;

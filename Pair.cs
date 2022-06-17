@@ -1,6 +1,6 @@
 namespace MySystem
 {
-    class Pair<T, U>
+    public class Pair<T, U>
     {
         public T First;
         public U Second;

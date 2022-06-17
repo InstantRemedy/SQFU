@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\igorf\\Desktop\\CODE\\cs\\SQFU\\SQFU.csproj": {}
+    "C:\\Projects\\GitHub\\SQFU-Simple-Quest-For-Unity\\SQFU.csproj": {}
   },
   "projects": {
-    "C:\\Users\\igorf\\Desktop\\CODE\\cs\\SQFU\\SQFU.csproj": {
+    "C:\\Projects\\GitHub\\SQFU-Simple-Quest-For-Unity\\SQFU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\igorf\\Desktop\\CODE\\cs\\SQFU\\SQFU.csproj",
+        "projectUniqueName": "C:\\Projects\\GitHub\\SQFU-Simple-Quest-For-Unity\\SQFU.csproj",
         "projectName": "SQFU",
-        "projectPath": "C:\\Users\\igorf\\Desktop\\CODE\\cs\\SQFU\\SQFU.csproj",
+        "projectPath": "C:\\Projects\\GitHub\\SQFU-Simple-Quest-For-Unity\\SQFU.csproj",
         "packagesPath": "C:\\Users\\igorf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\igorf\\Desktop\\CODE\\cs\\SQFU\\obj\\",
+        "outputPath": "C:\\Projects\\GitHub\\SQFU-Simple-Quest-For-Unity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\igorf\\AppData\\Roaming\\NuGet\\NuGet.Config",
