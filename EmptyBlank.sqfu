@@ -1,6 +1,6 @@
 <NotActive>
     <Status>
-       "true" 
+       "false" 
     <Status/>
 	<Msg>
         <NPC>
@@ -28,6 +28,7 @@
 
 <Completed>
     <Status>
+        "false"
     <Status/>
 	<Msg>
         <NPC>
@@ -41,6 +42,7 @@
 
 <AfterCompleted>
     <Status> 
+        "false"
     <Status/>
 	<Msg>
         <NPC>
